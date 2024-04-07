@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>أهمية التكنولوجيا في حياتنا اليومية</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="scripts.js" defer></script>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f5f5f5;
+            color: #333;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+        }
+
+        .container {
+            width: 80%;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        header {
+            background-color: #007bff;
+            color: #fff;
+            padding: 20px 0;
+            text-align: center;
+        }
+
+        nav ul {
+            list-style: none;
+            padding: 0;
+        }
+
+        nav ul li {
+            display: inline;
+            margin-right: 20px;
+        }
+
+        nav ul li a {
+            color: #fff;
+            text-decoration: none;
+        }
+
+        main {
+            padding-top: 20px;
+        }
+
+        section {
+            margin-bottom: 30px;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+
+        footer {
+            text-align: center;
+            padding: 20px 0;
+            background-color: #007bff;
+            color: #fff;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>أهمية التكنولوجيا في حياتنا اليومية</h1>
+            <nav>
+                <ul>
+                    <li><a href="#communication">التواصل والتفاعل الاجتماعي</a></li>
+                    <li><a href="#economy">التأثير على الاقتصاد</a></li>
+                    <li><a href="#education">التعليم والمعرفة</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <main class="container">
+        <section id="communication">
+            <h2>التواصل والتفاعل الاجتماعي</h2>
+            <p>تلعب التكنولوجيا دورًا هامًا في تسهيل التواصل والتفاعل الاجتماعي في المجتمعات الحديثة. تمكننا وسائل التواصل الاجتماعي والتطبيقات الرقمية من التواصل مع الأصدقاء والعائلة والزملاء بسهولة، حتى عبر الحدود الجغرافية.</p>
+            <a href="communication.html">اقرأ المزيد</a>
+        </section>
+
+        <section id="economy">
+            <h2>التأثير على الاقتصاد</h2>
+            <p>تعزز التكنولوجيا الاقتصاد الرقمي وتفتح أبوابًا جديدة للأعمال والفرص التجارية. تساهم التجارة الإلكترونية والابتكارات التكنولوجية في زيادة الإنتاجية وتحسين كفاءة العمل، مما يؤدي إلى نمو اقتصادي إيجابي.</p>
+            <a href="economy.html">اقرأ المزيد</a>
+        </section>
+
+        <section id="education">
+            <h2>التعليم والمعرفة</h2>
+            <p>تسهم التكنولوجيا في تحسين عمليات التعلم ونقل المعرفة بشكل كبير. توفر الأنظمة التعليمية عبر الإنترنت والتطبيقات التعليمية فرصًا للتعلم المستمر والوصول إلى المعلومات في أي وقت ومن أي مكان.</p>
+            <a href="education.html">اقرأ المزيد</a>
+        </section>
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2024 [TechWeb]. جميع الحقوق محفوظة.</p>
+        </div>
+    </footer>
+</body>
+</html>
