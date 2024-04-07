@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>التأثير على الاقتصاد</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>التأثير على الاقتصاد</h1>
+            <nav>
+                <a href="index.html">العودة إلى الصفحة الرئيسية</a>
+            </nav>
+        </div>
+    </header>
+
+    <main class="container">
+        <section>
+            <h2>التحول الرقمي للأعمال</h2>
+            <p>يدفع التطور التكنولوجي الشركات نحو التحول الرقمي، مما يعزز الكفاءة ويفتح أفاقًا جديدة للنمو والتوسع في الأسواق.</p>
+        </section>
+
+        <section>
+            <h2>التجارة الإلكترونية والابتكارات المالية</h2>
+            <p>تسهم التقنيات الحديثة مثل التجارة الإلكترونية والعملات الرقمية في تغيير أساليب التداول والدفع وتحسين الأداء المالي.</p>
+        </section>
+
+        <section>
+            <h2>تحديات التكنولوجيا للقطاع الاقتصادي</h2>
+            <p>تواجه الاقتصادات التحديات في استيعاب التكنولوجيا الجديدة ومواكبة التطورات السريعة للحفاظ على التنافسية والاستدامة.</p>
+        </section>
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2024 [TechWeb]. جميع الحقوق محفوظة.</p>
+        </div>
+    </footer>
+</body>
+</html>
